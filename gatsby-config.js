@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Gatsby Netlify CMS`,
+    title: `Digitorium: Gatsby Netlify CMS testing`,
     author: `digitorium`,
     description: `Test site`,
-    siteUrl: `https://github.com/digitorium/gatsby-netlify/`,
+    siteUrl: `https://digitorium.netlify.app/`,
     social: {
       twitter: ``,
     },
